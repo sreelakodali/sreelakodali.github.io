@@ -2469,7 +2469,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		.button:hover {
 			border-color: #FFFF00;
-			color: #49bf9d !important;
+			color: #000000 !important;
 		}
 
 		input[type="submit"]:active,
