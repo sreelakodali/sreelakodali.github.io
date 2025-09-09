@@ -2477,8 +2477,8 @@ input, select, textarea {
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #FFFF00;
+			color: #FFFF00 !important;
 		}
 
 		input[type="submit"].icon,
@@ -2521,8 +2521,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #49bf9d;
-			border-color: #49bf9d;
+			background-color: #FFFF00;
+			border-color: #FFFF00;
 			color: #ffffff !important;
 		}
 
