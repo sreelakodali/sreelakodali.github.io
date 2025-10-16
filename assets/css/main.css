@@ -2076,7 +2076,7 @@ input, select, textarea {
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
-				color: #fff;
+				color: #000;
 				content: 'Learn More';
 				display: inline-block;
 				font-size: 0.8em;
