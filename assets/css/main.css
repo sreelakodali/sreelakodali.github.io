@@ -2091,10 +2091,12 @@ input, select, textarea {
 				text-decoration: none;
 				top: 50%;
 				white-space: nowrap;
+				background: url("images/overlay2.png"), url("images/overlay2.png");
+				opacity: 0.5;
 			}
 
 			.image.thumb:hover:after {
-				opacity: 0.5;
+				opacity: 1.0;
 			}
 
 			.image.thumb:hover:before {
