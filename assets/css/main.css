@@ -1845,7 +1845,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #FFFF00;
 		}
 
 	select {
@@ -1950,7 +1950,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49bf9d;
+			border-color: #FFFF00;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2521,7 +2521,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #49bf9d;
+			background-color: #FFFF00;
 			border-color: #FFFF00;
 			color: #000000 !important;
 		}
